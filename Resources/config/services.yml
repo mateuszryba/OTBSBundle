@@ -1,0 +1,3 @@
+services:
+    otbs:
+        class:        Ryba\OTBSBundle\Services\OTBS
