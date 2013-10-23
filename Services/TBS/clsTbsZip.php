@@ -1,6 +1,6 @@
 <?php
 
-namespace DevDash\OTBSBundle\Services\TBS;
+namespace Ryba\OTBSBundle\Services\TBS;
 
 define('TBSZIP_DOWNLOAD',1);   // download (default)
 define('TBSZIP_NOHEADER',4);   // option to use with DOWNLOAD: no header is sent
