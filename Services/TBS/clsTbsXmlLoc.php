@@ -1,6 +1,6 @@
 <?php
 
-namespace DevDash\OTBSBundle\Services\TBS;
+namespace Ryba\OTBSBundle\Services\TBS;
 
 /**
  * Constants to drive the plugin.
