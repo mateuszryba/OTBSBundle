@@ -2,15 +2,6 @@
 
 namespace Ryba\OTBSBundle\Services\TBS;
 
-// Render flags
-define('TBS_NOTHING', 0);
-define('TBS_OUTPUT', 1);
-define('TBS_EXIT', 2);
-
-// Plug-ins actions
-define('TBS_INSTALL', -1);
-define('TBS_ISINSTALLED', -3);
-
 /**
  * @version 1.8.1
  * @date 2013-08-31
